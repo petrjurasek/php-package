@@ -1,0 +1,8 @@
+{
+    "name": "pertjurasek/php-package",
+    "description": "PHP package. For Packagist testing purposes only",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    }
+}
